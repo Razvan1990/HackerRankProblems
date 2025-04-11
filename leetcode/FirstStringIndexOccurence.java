@@ -1,4 +1,4 @@
-package hackerRank;
+package leetcode;
 
 public class FirstStringIndexOccurence {
 
