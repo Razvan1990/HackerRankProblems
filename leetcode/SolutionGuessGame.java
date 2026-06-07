@@ -45,4 +45,5 @@ public class SolutionGuessGame extends GuessGame {
         System.out.println(solutionGuessGame.guessNumber(2));
     }
 
+
 }

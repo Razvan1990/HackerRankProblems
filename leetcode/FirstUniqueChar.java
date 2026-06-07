@@ -1,4 +1,4 @@
-package leetcode;
+package hackerRank.leetcode;
 
 import java.util.LinkedHashMap;
 

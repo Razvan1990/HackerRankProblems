@@ -1,6 +1,4 @@
-package leetcode;
-
-import org.checkerframework.checker.units.qual.C;
+package hackerRank.leetcode;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;
@@ -41,7 +39,7 @@ public class RansomNote {
         return freqMap;
     }
 
-    public static void main(String[] args) {
+    static void main(String[] args) {
         RansomNote ransomNote = new RansomNote();
         System.out.println(ransomNote.canConstruct("a","b"));
         System.out.println(ransomNote.canConstruct("aa", "ab"));
